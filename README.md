@@ -5,6 +5,14 @@ We want to optimize the generation of electricity for REE ('Red El√©ctrica Espa√
 - To achieve the objectives agreed upon to fight climate change, the emissions of CO2 are capped.
 - Each region has a certain maximum capacity to produce energy in each of the different ways. Each region has a certain maximum capacity to produce energy in each of the different ways.
 
+The project was inspired by an assignment from an Optimization course in my Master's program.
+
+## Files description
+
+- *production.csv*. The input data already extracted and preprocessed from the data sources shown below.
+
+- *energy_prod_spain.ipynb*. Jupyter notebook with the code and explanations.
+
 ## Data sources
 
 - [*2018 Spanish Electric System Report*](https://www.ree.es/es/datos/publicaciones/informe-anual-sistema/informe-del-sistema-electrico-espanol-2018). 
